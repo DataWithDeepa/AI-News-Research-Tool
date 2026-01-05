@@ -19,4 +19,4 @@ A Streamlit-based news research tool using LangChain and Groq LLM.
 2. pip install -r requirements.txt
 3. streamlit run app.py
 
-Live Demo: [Your Streamlit link]
+Live Demo: [https://ai-news-research-tool-7hsywts2qqcprnvugifrdi.streamlit.app/]
