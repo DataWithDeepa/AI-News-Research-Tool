@@ -1,5 +1,5 @@
 # AI-News-Research-Tool TOOL LINK : https://ai-news-research-tool-7hsywts2qqcprnvugifrdi.streamlit.app/ 
-![Uploading image.png…]()
+<img width="1881" height="853" alt="image" src="https://github.com/user-attachments/assets/de4cb8ab-cecb-42e1-9bbe-cb51c751fc43" />
 
 
 AI News &amp; Research Tool | Internship Project 9 (NextHikes IT Solution)  An intelligent Streamlit-based web application designed to deliver instant, professional-grade news research and document intelligence. 
