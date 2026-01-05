@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+requests
+langchain-groq
+langchain-core
+pdfplumber
+python-docx
+Pillow
+easyocr
+torch
+torchaudio
+torchvision
