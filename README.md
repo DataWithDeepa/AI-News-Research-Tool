@@ -1,4 +1,7 @@
-# AI-News-Research-Tool
+# AI-News-Research-Tool TOOL LINK : https://ai-news-research-tool-7hsywts2qqcprnvugifrdi.streamlit.app/ 
+![Uploading image.png…]()
+
+
 AI News &amp; Research Tool | Internship Project 9 (NextHikes IT Solution)  An intelligent Streamlit-based web application designed to deliver instant, professional-grade news research and document intelligence. 
 # AI News & Research Tool - Internship Project 9
 
