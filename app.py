@@ -154,7 +154,6 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# बाकी कोड बिल्कुल वैसा ही है – कोई बदलाव नहीं
 @st.cache_resource
 def get_ocr_reader(lang):
     lang_map = {"en": ['en'], "hi": ['hi','en'], "mr": ['mr','en']}
@@ -295,4 +294,5 @@ else:
                             st.markdown(f"<span style='color:white;'>{a['description'] or ''}</span>", unsafe_allow_html=True)
                             st.markdown(f"[🔗 Read Full Article]({a['url']})")
                 else:
+
                     st.info("No matching news found.")
